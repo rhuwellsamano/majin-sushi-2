@@ -7,3 +7,4 @@ This time around, I'm going to build it with **React/Redux** & **Python/GraphQL*
 ### 10/8/2019
 - Created the project repo and README. 
 - Going to brainstorm some ideas on how I want it all to flow.
+- After a goodnight's sleep, I think I'm going to make it a battle style game where you battle against other cute lookin' food, gain experience, and grow your sushi army!
