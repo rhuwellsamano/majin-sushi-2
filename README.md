@@ -1,7 +1,7 @@
 # MAJIN SUSHI 2
 The *long-awaited sequel* to a sushi restaurant game I previously made using plain ol' Vanilla JS and Ruby on Rails while I was attending Flatiron School.
 
-This time around, I'm going to build it with **React/Redux**, **Apollo/GraphQL** and **Python** and *completely overhaul* the original game mechanics!
+This time around, I'm going to build it with **React**, **Apollo** , **GraphQL** and **Python** and *completely overhaul* the original game mechanics!
 
 ![](/majinsushi2.jpg)
 
